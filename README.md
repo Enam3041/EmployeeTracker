@@ -1,2 +1,2 @@
 # EmployeeTracker
-Time limited to 7:00 to 8:00
+Time limited 7:00 to 8:00
