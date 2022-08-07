@@ -1,0 +1,6 @@
+framework module Pods_EmployeeTracker {
+  umbrella header "Pods-EmployeeTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
